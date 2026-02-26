@@ -19,8 +19,9 @@ export default {
 		},
 		extend: {
 			fontFamily: {
-				'golos': ['Golos Text', 'sans-serif'],
+				'golos': ['Nunito', 'sans-serif'],
 				'cormorant': ['Cormorant', 'serif'],
+				'nunito': ['Nunito', 'sans-serif'],
 			},
 			colors: {
 				border: 'hsl(var(--border))',
